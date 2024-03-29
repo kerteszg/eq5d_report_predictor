@@ -1,0 +1,100 @@
+0	1	Comparing measurement properties of EQ-5D-Y-3L and EQ-5D-Y-5L in paediatric patients
+1	0	Feasibility of the EQ-5D in the elderly population: a systematic review of the literature
+2	1	Comparing the self-reported health-related quality of life (HRQoL) of artisanal and small-scale gold miners and the urban population in Zimbabwe using the EuroQol (EQ-5D-3L+C) questionnaire: a cross-sectional study
+3	1	Testing measurement properties of two EQ-5D youth versions and KIDSCREEN-10 in China
+4	1	Use of Antimalarial Agents is Associated with Favourable Physical Functioning in Patients with Systemic Lupus Erythematosus
+5	1	Effect of angular correction during posterior instrumentation of spinal fractures on postoperative outcomes and quality of life
+6	1	Relationship between residential district and health-related quality of life in Chungnam industrial complex area
+7	1	A Comparison of Concomitant Tributary Laser Ablation and Foam Sclerotherapy in Patients Undergoing Truncal Endovenous Laser Ablation for Lower Limb Varicose Veins
+8	0	The Scale of instantaneous wellbeing: validity in a population with major neurocognitive disorders
+9	0	Using the Choice Sequence in Time Trade-Off as Discrete Choices: Do the Two Stories Match?
+10	1	Ferric Carboxymaltose Improves the Quality of Life of Patients with Inflammatory Bowel Disease and Iron Deficiency without Anaemia
+11	1	Social/economic costs and health-related quality of life in patients with fragile X syndrome in Europe
+12	1	Agreement Among Paper and Electronic Modes of the EQ-5D-5L
+13	0	Impact of surgically operated hip fracture on the quality of life, functional status and mood of the elderly
+14	1	Quality of Life Experienced by Major Lower Extremity Amputees
+15	1	Depression and anxiety mediate perceived social support to predict health-related quality of life in pregnant women living with HIV
+16	1	Asthma insights from Jordan: cross-sectional observational study
+17	0	The minimal important change for the EQ VAS based on the SF-36 health transition item: observations from 25772 spine surgery procedures
+18	1	Estimating Health-State Utility Values in Kidney Transplant Recipients and Waiting-List Patients Using the EQ-5D-5L
+19	0	Efficacy of acetaminophen with and without oxycodone for analgesia in non-operative treatment of extremity fractures in adults: protocol for a double-blind randomized clinical trial
+20	1	Patient-Reported Outcome in Two Chronic Diseases: A Comparison of Quality of Life and Response Profiles in Severe Migraine and Severe Asthma
+21	1	The relationship between medical comorbidities and health-related quality of life among adults with type 2 diabetes: The experience of different hospitals in southern Bangladesh
+22	1	Health-Related Quality of Life and Costs of Posttraumatic Stress Disorder in Adolescents and Young Adults in Germany
+23	0	Health economic analyses of psoriasis management: a systematic literature search
+24	1	How do the influencing factors of health-related quality of life of the injured patient differ according to activity limitations?
+25	1	Health-related quality of life of patients with idiopathic pulmonary fibrosis: a systematic review and meta-analysis
+26	1	Frailty Prevalence and Association with Health-Related Quality of Life Impairment among Rural Community-Dwelling Older Adults in Vietnam
+27	0	Factors associated with infection recurrence after two-stage exchange for periprosthetic hip infection
+28	1	Asking what matters: The relevance and use of patient-reported outcome measures that were developed without patient involvement
+29	1	Effect of Metformin on Handgrip Strength, Gait Speed, Myostatin Serum Level, and Health-related Quality of Life: A Double Blind Randomized Controlled Trial among Non-diabetic Pre-frail Elderly Patients
+30	1	Measuring quality of life in COPD patients: comparing disease-specific supplements to the EQ-5D-5L
+31	0	Recognition of early mortality in multiple myeloma by a prediction matrix
+32	1	Suicidal ideation in patients with coronary heart disease and hypertension: Baseline results from the DEPSCREEN-INFO clinical trial
+33	0	A Cost Utility Analysis of Minimally Invasive Surgery with Thrombolysis Compared to Standard Medical Treatment in Spontaneous Intracerebral Haemorrhagic Stroke
+34	0	Systematic medical assessment, referral and treatment for diabetes care in China using lay family health promoters: protocol for the SMARTDiabetes cluster randomised controlled trial
+35	0	Measurement invariance and general population reference values of the PROMIS Profile 29 in the UK, France, and Germany
+36	1	The effect of high-dose vitamin D supplementation on muscular function and quality of life in postmenopausal women-A randomized controlled trial
+37	1	Quality of Life Following Prestige LP Cervical Disc Arthroplasty in a Prospective Multicountry Study
+38	0	Usual care including home exercise with versus without spa therapy for chronic low back pain: protocol for the LOMBATHERM' study, a multicentric randomised controlled trial
+39	1	Comparison of the Effectiveness of Shockwave Therapy with Selected Physical Therapy Procedures in Patients with Tennis Elbow Syndrome
+40	0	Association between perceived health and adherence to treatment after percutaneous coronary intervention: A long-term follow-up study
+41	0	Post-resuscitation EQ-5D-3L scoring by the patient or caregiver/legal guardian versus the medical professional: a sub-study of the Jerusalem District Resuscitation Study
+42	1	Golfers have a greater improvement in their hip specific function compared to non-golfers after total hip arthroplasty, but less than three-quarters returned to golf
+43	1	The HubBLe Trial: haemorrhoidal artery ligation (HAL) versus rubber band ligation (RBL) for symptomatic second- and third-degree haemorrhoids: a multicentre randomised controlled trial and health-economic evaluation
+44	1	Headache characteristics and burden from chronic migraine with medication overuse headache: Cross-sectional observations from the Medication Overuse Treatment Strategy trial
+45	1	Mortality, functional outcomes and quality of life after hip fractures complicated by infection: a case control study
+46	1	Quality of life and comorbidities associated with Dravet syndrome severity: a multinational cohort survey
+47	0	Psychometric development of the Upper Limb Lymphedema Quality of Life Questionnaire demonstrated the patient-reported outcome measure to be a robust measure for breast cancer-related lymphedema
+48	0	Nurse-led care versus physician-led care in the management of rheumatoid arthritis and psoriatic arthritis (StaerkeR): study protocol for a multi-center randomized controlled trial
+49	1	Arthroscopic capsular release versus manipulation under anaesthesia for treating frozen shoulder - a prospective randomised study
+50	1	Adenomatous-Dominant Benign Prostatic Hyperplasia (AdBPH) as a Predictor for Clinical Success Following Prostate Artery Embolization: An Age-Matched Case-Control Study
+51	1	The influence of endplate (Modic) changes on clinical outcomes in lumbar spinal stenosis surgery: a Swiss prospective multicenter cohort study
+52	1	Single-surgeon experience of excision and primary anastomosis for bulbar urethral stricture: analysis of surgical and patient-reported outcomes
+53	0	Effectiveness of rehabilitation after a total hip arthroplasty: a protocol for an observational study for the comparison of usual care in the Netherlands versus Germany
+54	0	Chronic low back pain and the risk of depression or anxiety symptoms: insights from a longitudinal twin study
+55	0	Functional recovery after treatment of extra-articular distal radius fractures in the elderly using the IlluminOss® System (IO-Wrist); a multicenter prospective observational study
+56	0	Sativex® (nabiximols) cannabinoid oromucosal spray in patients with resistant multiple sclerosis spasticity: the Belgian experience
+57	0	The Mental Health Quality of Life Questionnaire (MHQoL): development and first psychometric evaluation of a new measure to assess quality of life in people with mental health problems
+58	1	Long-Term Efficacy of a Novel Spinal Cord Stimulation Clinical Workflow Using Kilohertz Stimulation: Twelve-Month Results From the Vectors Study
+59	0	Loneliness, social isolation, and pain following the COVID-19 outbreak: data from a nationwide internet survey in Japan
+60	1	Epidemiology and associated factors of polypharmacy in older patients in primary care: a northern Italian cross-sectional study
+61	0	STEPWISE - STructured lifestyle Education for People WIth SchizophrEnia: a study protocol for a randomised controlled trial
+62	1	Development of the Japanese Core Outcome Measures Index (COMI): cross-cultural adaptation and psychometric validation
+63	0	Nerve root block versus surgery (NERVES) for the treatment of radicular pain secondary to a prolapsed intervertebral disc herniation: study protocol for a multi-centre randomised controlled trial
+64	1	Validation of the EuroQol questionnaire in patients with inflammatory bowel disease
+65	1	Can we define success criteria for lumbar disc surgery? : estimates for a substantial amount of improvement in core outcome measures
+66	1	Hospital variation in patient-reported outcomes at the level of EQ-5D dimensions: evidence from England
+67	1	The health status of the Dutch population as assessed by the EQ-6D
+68	1	Outcome predictors and quality of life of severe burn patients admitted to intensive care unit
+69	1	Valuation of EQ-5D health states in Poland: first TTO-based social value set in Central and Eastern Europe
+70	1	A review of health utilities across conditions common in paediatric and adult populations
+71	1	Association between quality of life and treatment response in children with attention Deficit Hyperactivity Disorder and their parents
+72	0	Out With The Old - In With The New: Would New Social Preference Weights For Eq-5d Inevitably Require A Reappraisal of Previous Cost-Effectiveness Determinations?
+73	1	The quality of life impact of peripheral versus central vision loss with a focus on glaucoma versus age-related macular degeneration
+74	0	Testing a discrete choice experiment including duration to value health states for large descriptive systems: addressing design and sampling issues
+75	0	Results and implications of using a new eq-5d value set for cost-utility analyses in sweden. An application using enzalutamide (xtandi®) verse best supportive care for treatment of metastatic castration resistant prostate cancer (MCRPC)
+76	1	The ability of cancer-specific and generic preference-based instruments to discriminate across clinical and self-reported measures of cancer severities
+77	1	Impaired health status and care dependency in patients with advanced COPD or chronic heart failure
+78	1	Socioeconomic Status May Impact Functional Outcome of Deep Brain Stimulation Surgery in Parkinson's Disease
+79	0	Evaluation of stroke services in Anglia Stroke Clinical Network to examine the variation in acute services and stroke outcomes
+80	1	Cost-effectiveness of a behavioral intervention for persistent urinary incontinence in prostate cancer patients
+81	1	Long-term clinical and radiographic results after delayed anterior cruciate ligament reconstruction in adolescents
+82	0	[Outcome parameters in ankylosing spondylitis]
+83	0	Using QALYs in telehealth evaluations: a systematic review of methodology and transparency
+84	1	Combining medical treatment and CBT in treating alcohol-dependent patients: effects on life quality and general well-being
+85	0	Fewer symptoms vs. more side-effects in schizophrenia? Opposing pathways between antipsychotic medication compliance and quality of life
+86	1	Incidence and risk factors for early adjacent vertebral fractures after balloon kyphoplasty for osteoporotic fractures: analysis of the SWISSspine registry
+87	0	German Cranial Reconstruction Registry (GCRR): protocol for a prospective, multicentre, open registry
+88	1	Work disability after diagnosis of hand-arm vibration syndrome
+89	1	Baseline characteristics and patient reported outcome data of patients prescribed etanercept: web-based and telephone evaluation
+90	0	Cost-effectiveness of collaborative care including PST and an antidepressant treatment algorithm for the treatment of major depressive disorder in primary care; a randomised clinical trial
+91	0	Protocol for a randomised controlled trial of standard wound management versus negative pressure wound therapy in the treatment of adult patients with an open fracture of the lower limb: UK Wound management of Lower Limb Fractures (UK WOLLF)
+92	1	Reliability, validity and responsiveness of two multiattribute utility measures in patients with chronic obstructive pulmonary disease
+93	1	Evaluation of an agency-based occupational therapy intervention to facilitate aging in place
+94	1	Etanercept improves quality of life outcomes and treatment satisfaction in patients with moderate to severe plaque psoriasis in clinical practice
+95	0	[Raloxifene in clinical practice. Results of the non-interventional study CORAL (COmpliance with RALoxifene)]
+96	1	Impact of apathy on health-related quality of life in recently diagnosed Parkinson's disease: the ANIMO study
+97	0	Measuring health-related quality of life by experiences: the experience sampling method
+98	0	Efficacy of labral repair, biceps tenodesis, and diagnostic arthroscopy for SLAP lesions of the shoulder: a randomised controlled trial
+99	0	[Association between arthritis, functional disability and quality of life using a structural equation]

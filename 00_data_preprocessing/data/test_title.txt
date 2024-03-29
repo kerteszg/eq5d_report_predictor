@@ -1,0 +1,100 @@
+0	1	Measuring health-related quality of life in women with endometriosis: comparing the clinimetric properties of the Endometriosis Health Profile-5 (EHP-5) and the EuroQol-5D (EQ-5D)
+1	1	Adding a fatigue item to the EQ-5D-5L improves its psychometric performance in the general population
+2	1	"The number of patients ""worse than death"" while waiting for a hip or knee arthroplasty has nearly doubled during the COVID-19 pandemic"
+3	0	Direct and Indirect Pathways for Health-Related Quality of Life Change from Pain Improvement in Neuropathic Pain Patients with Spine Diseases: Path Analysis with Structural Equation Modeling Using Non-Interventional Study Results of Pregabalin
+4	1	Estimation of Health Utilities Based on the Response to Treatment in Atopic Dermatitis: a Population-based Study
+5	1	Examining the association between menstrual symptoms and health-related quality of life among working women in Japan using the EQ-5D
+6	1	Estimating Informal Caregiving Time from Patient EQ-5D Data: The Informal CARE Effect (iCARE) Tool
+7	0	EQ-VT protocol: one-size-fits-all? Challenges and innovative adaptations used in Egypt: a cross-sectional study
+8	1	Health related quality of life and mortality 10 years after a femoral neck fracture in patients younger than 70 years
+9	1	A Comparison of Patient-Centered Outcome Measures to Evaluate Dysphagia and Dysphonia After Anterior Cervical Discectomy and Fusion
+10	1	Comparison of the EQ-5D-3L and the SF-6D (SF-12) contemporaneous utility scores in patients with cardiovascular disease
+11	1	Effects of preoperative obesity and psychiatric comorbidities on minimum clinically important differences for lumbar fusion in grade 1 degenerative spondylolisthesis: analysis from the prospective Quality Outcomes Database registry
+12	1	The five-repetition sit-to-stand test: evaluation of a simple and objective tool for the assessment of degenerative pathologies of the lumbar spine
+13	0	Effect of patient education and physical training on quality of life and physical exercise capacity in patients with paroxysmal or persistent atrial fibrillation: A randomized study
+14	0	Daily longitudinal self-monitoring of mood variability in bipolar disorder and borderline personality disorder
+15	0	[Chondroprotector transdermal magnetophoresis for osteoarthritis of the knee]
+16	0	Self-efficacy and Emotional Distress in a Cohort With Patellofemoral Pain
+17	0	Health related quality of life aspects not captured by EQ-5D-5L: Results from an international survey of patients
+18	1	Patient-reported outcomes of symptom burden in patients receiving surgical or nonsurgical treatment for low-intermediate risk oropharyngeal squamous cell carcinoma: A comparative analysis of a prospective registry
+19	1	A Cost-Effectiveness Analysis of Comprehensive Smoking-Cessation Interventions Based on the Community and Hospital Collaboration
+20	0	[Evaluation of Reliability and Validity of EQ-5D-5L Based on Residents in Southwest China]
+21	0	Cluster randomised control trial of the effect on attendance and outcomes of multi-disciplinary teams involving psychologists during pelvic floor muscle training for pelvic floor dysfunction
+22	1	Characteristics of patients with neuropathic pain syndromes screened by the painDETECT questionnaire and diagnosed by physician exam
+23	1	A matched comparison of the patient-reported outcome measures of cemented and cementless total knee replacements, based on the National Joint Registry of England, Wales, Northern Ireland, and Isle of Man and England's National PROM collection programme
+24	1	The Cost Effectiveness of Docetaxel and Active Symptom Control versus Active Symptom Control Alone for Refractory Oesophagogastric Adenocarcinoma: Economic Analysis of the COUGAR-02 Trial
+25	0	[Effect of enhanced recovery after surgery for elderly patients with hemiarthroplasty for the treatment of femoral neck fracture]
+26	1	The use of pre-operative virtual reality to reduce anxiety in women undergoing gynecological surgeries: a prospective cohort study
+27	0	Cross-Cultural Adaptation and Validation of the Romanian Marx Activity Rating Scale for Anterior Cruciate Ligament Reconstruction
+28	1	Focused Shockwave Treatment for Greater Trochanteric Pain Syndrome: A Multicenter, Randomized, Controlled Clinical Trial
+29	1	The frequency of remission and low disease activity in patients with rheumatoid arthritis, and their ability to identify people with low disability and normal quality of life
+30	0	Perception of Menstrual Normality and Abnormality in Spanish Female Nursing Students
+31	0	Prospective cohort study by InspECT on safety and efficacy of electrochemotherapy for cutaneous tumors and metastases depending on ulceration
+32	0	Sarcopenia in patients with heart failure with preserved ejection fraction: Impact on muscle strength, exercise capacity and quality of life
+33	1	Targeted Treatment Protocol in Patellofemoral Pain: Does Treatment Designed According to Subgroups Improve Clinical Outcomes in Patients Unresponsive to Multimodal Treatment?
+34	0	Review of total hip arthroplasty in patients younger than 30 years: mid- to long-term results
+35	1	[The effect of multimorbidity on functional and quality of life outcomes in women with generalized osteoarthritis]
+36	0	Stimulation of the Gasserian ganglion in the treatment of refractory trigeminal neuropathy
+37	0	Short-term Montreal Cognitive Assessment predicts functional outcome after endovascular therapy
+38	0	Mental Health Burden of the COVID-19 Outbreak in Germany: Predictors of Mental Health Impairment
+39	1	The impact of loneliness and social isolation on health state utility values: a systematic literature review
+40	1	Assessment of 1-year Outcomes in Survivors of Severe Acute Respiratory Distress Syndrome Receiving Extracorporeal Membrane Oxygenation or Mechanical Ventilation: A Prospective Observational Study
+41	1	Clinical and MRI responses to etanercept in early non-radiographic axial spondyloarthritis: 48-week results from the EMBARK study
+42	1	Patients' Global Impression of Change in the management of peripheral neuropathic pain: Clinical relevance and correlations in daily practice
+43	0	A cluster randomised feasibility pilot trial evaluating involving community-dwelling older adults in activities in relation to meals in a rehabilitation program; recruitment, data collection and protocol
+44	0	Health-related Quality of Life with Adjuvant Nivolumab After Radical Resection for High-risk Muscle-invasive Urothelial Carcinoma: Results from the Phase 3 CheckMate 274 Trial
+45	0	Lung Cancer App (LuCApp) study protocol: a randomised controlled trial to evaluate a mobile supportive care app for patients with metastatic lung cancer
+46	0	Locking Plate Arthrodesis Compares Favorably with LRTI for Thumb Trapeziometacarpal Arthrosis: Early Outcomes from a Longitudinal Cohort Study
+47	0	Psychometric validation and responder definition of the sleep disturbance numerical rating scale in moderate-to-severe atopic dermatitis
+48	0	Characterization of Patients with Psoriasis in Challenging-to-Treat Body Areas in the Corrona Psoriasis Registry
+49	1	Surgical outcomes between posterior decompression alone and posterior decompression with fusion surgery among patients with Meyerding grade 2 degenerative spondylolisthesis: a multicenter cohort study
+50	1	A Multicomponent Exercise Intervention that Reverses Frailty and Improves Cognition, Emotion, and Social Networking in the Community-Dwelling Frail Elderly: A Randomized Clinical Trial
+51	1	Persistent immune-related adverse events after cessation of checkpoint inhibitor therapy: Prevalence and impact on patients' health-related quality of life
+52	0	VASO (Vitamin D and Arthroplasty Surgery Outcomes) study - supplementation of vitamin D deficiency to improve outcomes after total hip or knee replacement: study protocol for a randomised controlled feasibility trial
+53	1	na
+54	0	Proceedings of Patient Reported Outcome Measure's (PROMs) Conference Oxford 2017: Advances in Patient Reported Outcomes Research : Oxford, UK. 8th June 2017
+55	1	Health utility measured with EQ-5D in Thai patients undergoing peritoneal dialysis
+56	1	A comparison of the EuroQol-5D and the Health Utilities Index mark 3 in patients with rheumatic disease
+57	1	Population norms for the EQ-5D index scores using Singapore preference weights
+58	1	Validity and reliability of three commonly used quality of life measures in a large European population of coronary heart disease patients
+59	1	Study on health-related quality of life in patients with advanced heart failure before and after transplantation
+60	1	Validation of two generic patient-reported outcome measures in patients with type 2 diabetes
+61	1	Self-reported chronic conditions and EQ-5D index scores in the US adult population
+62	1	How does Parkinson's disease affect quality of life? A comparison with quality of life in the general population
+63	0	Effect of spironolactone on physical performance in older people with self-reported physical disability
+64	1	Quality of Life Following Treatment of Trochanteric Fractures with Proximal Femoral Nail versus Cementless Bipolar Hemiarthroplasty in Elderly
+65	1	Differences between hypothetical and experience-based value sets for EQ-5D used in Sweden: Implications for decision makers
+66	1	Factors that predicted change in health-related quality of life were identified in a cohort of diabetes mellitus type 1 patients
+67	0	[Quality of life and burden of disease in peripheral arterial disease: a study among Hungarian patients]
+68	1	Physical activity and health outcomes in persons with haemophilia B
+69	1	Does FDG PET-assisted management of patients with left ventricular dysfunction improve quality of life? A substudy of the PARR-2 trial
+70	1	Radiofrequency ablation as initial therapy in paroxysmal atrial fibrillation: results on health-related quality of life and symptom burden. The MANTRA-PAF trial
+71	0	Is progression-free survival associated with a better health-related quality of life in patients with lung cancer? Evidence from two randomised trials with afatinib
+72	1	Negative illness perceptions are associated with impaired quality of life in patients after long-term remission of Cushing's syndrome
+73	0	[Reference guidelines for the 12-Item Short-Form Health Survey version 2 based on the Catalan general population]
+74	0	Disease-outcome trees, EQ-5D scores, and estimated annual losses of quality-adjusted life years (QALYs) for 14 foodborne pathogens in the United States
+75	0	Efficacy and safety of low-dose transdermal buprenorphine patches (5, 10, and 20 microg/h) versus prolonged-release tramadol tablets (75, 100, 150, and 200 mg) in patients with chronic osteoarthritis pain: a 12-week, randomized, open-label, controlled, parallel-group noninferiority study
+76	1	The relationship between self-reported severe pain and measures of socio-economic disadvantage
+77	1	Can adult weights be used to value child health states? Testing the influence of perspective in valuing EQ-5D-Y
+78	0	Acupuncture for functional dyspepsia: study protocol for a two-center, randomized controlled trial
+79	0	Cross-cultural adaptation and validation of Singapore English and Chinese Versions of the Oxford Knee Score (OKS) in knee osteoarthritis patients undergoing total knee replacement
+80	0	Development of a screening tool for risk of locomotive syndrome in the elderly: the 25-question Geriatric Locomotive Function Scale
+81	1	The influence of choice of therapy on quality of life in patients with neurogenic thoracic outlet syndrome
+82	1	Operationalising the capability approach as an outcome measure in public health: The development of the OCAP-18
+83	1	Economic evaluation alongside a single RCT of an integrative psychotherapeutic nursing home programme
+84	1	Cost-effectiveness of a Home-Exercise Program Among Older People After Hospitalization
+85	1	A Quality Use of Medicines program for general practitioners and older people: a cluster randomised controlled trial
+86	0	Global long-term study on motor and non-motor symptoms and safety of levodopa-carbidopa intestinal gel in routine care of advanced Parkinson's disease patients; 12-month interim outcomes
+87	0	Quality of life and satisfaction with treatment in subjects with type 2 diabetes: results in Spain of the PANORAMA study
+88	1	The effectiveness and cost-effectiveness of minimal access surgery amongst people with gastro-oesophageal reflux disease - a UK collaborative study. The REFLUX trial
+89	1	Exploring non-health outcomes of health promotion: the perspective of participants in a lifestyle behaviour change intervention
+90	1	Concurrent comparison of the measurement properties of generic and disease-specific questionnaires in obese inpatients
+91	1	A durable gain in motor and non-motor symptoms of Parkinson's Disease following repeated caloric vestibular stimulation: A single-case study
+92	1	Long-term effects of Graves' ophthalmopathy on health-related quality of life
+93	0	Cross-cultural validation of a disease-specific patient-reported outcome measure for lupus in Philippines
+94	1	Cost effectiveness of laparoscopic versus mini-incision open donor nephrectomy: a randomized study
+95	1	Evaluation of pain and its effect on quality of life and functioning in men with spinal cord injury
+96	1	Risk Adjustment In Neurocritical care (RAIN)--prospective validation of risk prediction models for adult patients with acute traumatic brain injury to use to evaluate the optimum location and comparative costs of neurocritical care: a cohort study
+97	0	Incorporation of the experience of patients in the development of a patient-reported outcome measures (PROM) for carpal tunnel syndrome
+98	1	Validation of a modified version of the brief pain inventory for painful diabetic peripheral neuropathy
+99	0	[Cost] effectiveness of withdrawal of fall-risk increasing drugs versus conservative treatment in older fallers: design of a multicenter randomized controlled trial (IMPROveFALL-study)
